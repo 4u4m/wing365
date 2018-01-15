@@ -40,86 +40,6 @@
       "components": [
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "showIcons": true,
-            "iconsColor": "#fff",
-            "showTitles": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x1330.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.3
-          },
-          "title": "INTRO WITH ICONS",
-          "text": "Full-screen intro with background image, color overlay and icons. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "title1": "Multi Layouts",
-          "title2": "Creative Idea",
-          "title3": "Target Buyers",
-          "title4": "Reach Top",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "layers",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "expand",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "pencil",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "compass",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader3",
-          "_anchor": "extHeader3-2"
-        },
-        {
-          "_params": {
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
@@ -292,7 +212,7 @@
           ],
           "_name": "extHeader2",
           "_anchor": "extHeader2-1",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extHeader2\" data-rv-view=\"13\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/-2000x1333.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(0, 0, 0);\">\n    </div>\n        <div class=\"mbr-table-cell\">\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div>\n                            <h3 class=\"mbr-section-title display-2 text-center mbr-editable-content\" code-editable-id=\"10\">INTRO WITH SUBSCRIBE FORM</h3>\n\n                            <div class=\"mbr-section-text lead text-center\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"11\">Full-screen intro with background image and email subscribe form. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.</p>\n                            </div>\n\n                            \n\n                    </div>\n\n                    <div class=\"container\">\n                        <div class=\"row\">\n                            <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2\" data-form-type=\"formoid\">\n                                <div data-form-alert=\"true\">\n                                    <div hidden=\"\" data-form-alert-success=\"true\" class=\"alert alert-form alert-success text-xs-center\">Thanks for filling out form!</div>\n                                </div>\n                                <form class=\"mbr-form\" action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"INTRO WITH SUBSCRIBE FORM\">\n                                    <input type=\"hidden\" value=\"iC3uNG2sN1ewGiyRH2HZHkFUQ51YIbOog+RWz/6EkYDTsQe7UBRmavFROvbtwh7ck5+CJpn2uNpSQkYpghFg2fHO7sCNTxYWKkzzDUa9YtnqFpck3gRdb+HB4AZ8T8qx\" data-form-email=\"true\">\n                                    <div class=\"mbr-subscribe mbr-subscribe-dark input-group\">\n                                        <input type=\"email\" class=\"form-control\" name=\"email\" required=\"\" data-form-field=\"Email\" placeholder=\"Enter Your Email\">\n                                        <span class=\"input-group-btn mbr-editable-button\" code-editable-id=\"12\"><button type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</button></span>\n                                    </div>\n                                 </form>\n                            </div>\n                        </div>\n                    </div>\n\n                </div> \n            </div> \n        </div>\n        <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#next\"><i class=\"mbr-arrow-icon\"></i></a></div>              \n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extHeader2\" data-rv-view=\"13\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/-2000x1333.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(0, 0, 0);\">\n    </div>\n        <div class=\"mbr-table-cell\">\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div>\n                            <h3 class=\"mbr-section-title display-2 text-center mbr-editable-content\" code-editable-id=\"10\">도전 365</h3>\n\n                            <div class=\"mbr-section-text lead text-center\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"11\">Full-screen intro with background image and email subscribe form. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>\n                            </div>\n\n                            \n\n                    </div>\n\n                    <div class=\"container\">\n                        <div class=\"row\">\n                            <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2\" data-form-type=\"formoid\">\n                                <div data-form-alert=\"true\">\n                                    <div hidden=\"\" data-form-alert-success=\"true\" class=\"alert alert-form alert-success text-xs-center\">Thanks for filling out form!</div>\n                                </div>\n                                <form class=\"mbr-form\" action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"INTRO WITH SUBSCRIBE FORM\">\n                                    <input type=\"hidden\" value=\"iC3uNG2sN1ewGiyRH2HZHkFUQ51YIbOog+RWz/6EkYDTsQe7UBRmavFROvbtwh7ck5+CJpn2uNpSQkYpghFg2fHO7sCNTxYWKkzzDUa9YtnqFpck3gRdb+HB4AZ8T8qx\" data-form-email=\"true\">\n                                    <div class=\"mbr-subscribe mbr-subscribe-dark input-group\">\n                                        <input type=\"email\" class=\"form-control\" name=\"email\" required=\"\" data-form-field=\"Email\" placeholder=\"Enter Your Email\">\n                                        <span class=\"input-group-btn mbr-editable-button\" code-editable-id=\"12\"><button type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</button></span>\n                                    </div>\n                                 </form>\n                            </div>\n                        </div>\n                    </div>\n\n                </div> \n            </div> \n        </div>\n        <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#next\"><i class=\"mbr-arrow-icon\"></i></a></div>              \n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
