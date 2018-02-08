@@ -291,7 +291,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SOCIAL FEED",
-          "text": "<p>현재 운영 중인 페이스북과 유튜브 채널입니다.</p>",
+          "text": "<p>페이스북과 유튜브 최신 글 리스트</p>",
           "_tags": [
             "Theme"
           ],
