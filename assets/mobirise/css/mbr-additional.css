@@ -1,8 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
 
 
 
@@ -10,11 +12,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'NanumBarunGothic';
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'NanumBarunGothic';
 }
 .btn,
 .alert,
@@ -432,7 +434,7 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 .features6 .description {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'NanumBarunGothic';
 }
 .count,
 .counter-title {
@@ -514,7 +516,7 @@ h6,
   font-family: 'Lora', serif;
 }
 .extFeatures .feature-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'NanumBarunGothic';
 }
 .extFeatures2 h4 {
   font-family: 'Montserrat', sans-serif;
@@ -602,7 +604,7 @@ h6,
   color: #c0a375;
 }
 .extAccordion1 .panel-heading a {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'NanumBarunGothic';
 }
 .extAccordion1 .pseudoPlus,
 .extAccordion2 .pseudoPlus,
@@ -618,7 +620,7 @@ h6,
 .extAccordion2 .panel-heading a,
 .extAccordion3 .panel-heading a,
 .extToggle1 .panel-heading a {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'NanumBarunGothic';
 }
 .extProgressBar5 .progress-primary[value]::-webkit-progress-value {
   background-color: #c0a375;
@@ -741,4 +743,17 @@ h6,
 #menu-1 .link[aria-expanded="true"],
 #menu-1 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#extHeader12-2 P {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#extHeader12-2 SPAN {
+  font-size: 14px;
+  color: #000000;
+}
+#extFeatures10-3 .etl-icon {
+  color: #333333;
+}
+#extFeatures10-3 .mbr-section-subtitle {
+  font-family: 'Roboto', sans-serif;
 }
