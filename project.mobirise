@@ -22,7 +22,8 @@
       },
       "additionalSetColors": [
         "#f2f2f2",
-        "#d2dfe1"
+        "#d2dfe1",
+        "#e1e1e1"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -206,7 +207,7 @@
             "bgColor": "#f2f2f2",
             "bgText": "WING365.COM",
             "bgTextStyle": "Lato",
-            "bgTextColor": "#d2dfe1",
+            "bgTextColor": "#e1e1e1",
             "bgTextSize": "250",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -270,6 +271,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
