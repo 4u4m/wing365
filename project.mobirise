@@ -238,6 +238,9 @@
             "SPAN": {
               "font-size": "14px",
               "color": "#000000"
+            },
+            "H3": {
+              "font-size": "30px"
             }
           }
         },
