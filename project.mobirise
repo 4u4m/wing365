@@ -38,7 +38,8 @@
     "sitemapSwitcher": "on",
     "versionFirst": "4.6.4",
     "uniqCompNum": 16,
-    "versionPublish": "4.6.4"
+    "versionPublish": "4.6.4",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -99,7 +100,7 @@
           ],
           "_name": "header6",
           "_anchor": "header6-0",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar\" data-rv-view=\"0\" style=\"background-image: url(&quot;../../app/themes/mobirise3/components/_images/gallery/room-laptop.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(0,0,0);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                     \n                            <div class=\"mbr-figure\">\n  <iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/live_stream?channel=UChP4PRxkREj5jvXTpPJ746Q&amp;autoplay=1&amp;nohtml5=1\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n</div>\n                            \n                        </div>\n                        <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n\n                           <p class=\"mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 22px;\" code-editable-id=\"338\">세상을 생중계하라</p>\n\n                            <div class=\"mbr-section-text\">\n                                <p class=\"mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 16px; text-align: left;\" code-editable-id=\"339\">\"도전하는 삶이 아름답다\"<br>우리의 내일을 함께 만들겠다는 꿈에 대한 열정으로 더 큰 내일을 만들어가는 일인 전문방송입니다.</p>\n                            </div>\n <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-warning mbr-editable-button\" href=\"https://www.youtube.com/channel/UChP4PRxkREj5jvXTpPJ746Q\" style=\"font-family: NanumBarunGothic; font-size: 14px;\" code-editable-id=\"340\">지난 방송보기</a></div>\n                        </div>\n\n                        \n                        \n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#extheader12-2\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar\" data-rv-view=\"0\" style=\"background-image: url(&quot;../../app/themes/mobirise3/components/_images/gallery/room-laptop.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(0,0,0);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                     \n                            <div class=\"mbr-figure\">\n  <iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/live_stream?channel=UChP4PRxkREj5jvXTpPJ746Q&amp;autoplay=1&amp;nohtml5=1\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n</div>\n                            \n                        </div>\n                        <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n\n                           <p class=\"mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 22px;\" code-editable-id=\"341\">세상을 생중계하라</p>\n\n                            <div class=\"mbr-section-text\">\n                                <p class=\"mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 16px; text-align: left;\" code-editable-id=\"342\">\"도전하는 삶이 아름답다\"<br>우리의 내일을 함께 만들겠다는 꿈에 대한 열정으로 더 큰 내일을 만들어가는 일인 전문방송입니다.</p>\n                            </div>\n <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-warning mbr-editable-button\" href=\"https://www.youtube.com/channel/UChP4PRxkREj5jvXTpPJ746Q\" style=\"font-family: NanumBarunGothic; font-size: 14px;\" code-editable-id=\"343\">지난 방송보기</a></div>\n                        </div>\n\n                        \n                        \n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#extheader12-2\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(null);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n@import url(undefined);\n.mbr-section-title {\n  color: #28262b;\n}\n.mbr-section-text {\n  color: #565656;\n}\n",
@@ -204,7 +205,7 @@
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#ffffff",
             "bgText": "WING365.COM",
             "bgTextStyle": "Lato",
             "bgTextColor": "#e1e1e1",
@@ -286,7 +287,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f2f2f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -315,7 +316,7 @@
             "google": "",
             "youtube": "UChP4PRxkREj5jvXTpPJ746Q",
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f2f2f2",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "overlay": true,
@@ -339,7 +340,7 @@
             "socialDisqus": false,
             "shortName": "",
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f2f2f2",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
             "overlay": true,
@@ -391,7 +392,7 @@
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -491,7 +492,7 @@
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#f2f2f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -507,7 +508,7 @@
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
-          "text1": "<p><br></p>- (1981~1994) 한국프로그램 개발연구원 원장 역임\r<div>- (1990~1993) 서울시 교육청 소속 강사\r</div><div>- (1981~2000) 한국보이스카우트 소속 강사\r</div><div>- (1985~1993) 기업체 산업훈련 전문 강사\r</div><div>- (1985~1993) 여성개발원 소속 강사\r</div><div>2004.5.5 사단법인 강사협회 명강사 8호\r</div><div>2007. 한국 청년회의소 인터넷 홍보대사 및 한국JC 인터넷 방송국 운영\r</div><div>2008. 서울시 시민기자단 인터넷 방송자키\r</div><div>2011. 5. 1인 방송국 ‘도전365’ 대표 / 1인 창조기업가\r</div><div>2015. 국민안전처 생방송 서포터즈\r</div><div>2015. 2. 소셜 라이브 방송 협동조합 이사장\r</div><div>2015 행정자치부 생방송 서포터즈\r</div><div>2016. 서울시 성동구 성동마을 방송국 대표\r</div><div>2017 실버아이TV 뉴스 기자단 위촉</div>",
+          "text1": "<p><br></p>- (1981~1994) 한국프로그램 개발연구원 원장 역임\n<div>- (1990~1993) 서울시 교육청 소속 강사\n</div><div>- (1981~2000) 한국보이스카우트 소속 강사\n</div><div>- (1985~1993) 기업체 산업훈련 전문 강사\n</div><div>- (1985~1993) 여성개발원 소속 강사\n</div><div>2004.5.5 사단법인 강사협회 명강사 8호\n</div><div>2007. 한국 청년회의소 인터넷 홍보대사 및 한국JC 인터넷 방송국 운영\n</div><div>2008. 서울시 시민기자단 인터넷 방송자키\n</div><div>2011. 5. 1인 방송국 ‘도전365’ 대표 / 1인 창조기업가\n</div><div>2015. 국민안전처 생방송 서포터즈\n</div><div>2015. 2. 소셜 라이브 방송 협동조합 이사장\n</div><div>2015 행정자치부 생방송 서포터즈\n</div><div>2016. 서울시 성동구 성동마을 방송국 대표\n</div><div>2017 실버아이TV 뉴스 기자단 위촉</div>",
           "text2": "<p>&nbsp;방송출연 및 보도기록 및 수상\r</p><p>-2017년 연합TV 출연\r</p><p>- 2016년 5월 tbs 서울교통방송 소셜라이브방송협동조합 생방송\r</p><p>- 2016년 5월 ktv 행복한 오후 노년이 아름답다 1인 방송\r</p><p>- 2015.11. KTV 60대 방송자키 소개\r</p><p>- 2015.11. 월간지 헤이데이 (Heyday) 인생 2막 소개\r</p><p>- 2015.11. 100세 시대 60대 방송자키\r</p><p>- 2014.11. IT 활용능력 체험수기 공모전, 정보 활용 최우수상 수상\r</p><p>- 2013.01. OBS 살맛나는 세상 방송자키 출연\r</p><p>- 2012.10. KBS ‘VJ특공대’ 지역문화축제 생방송 출연\r</p><p>- 2012.03. MBC ‘TV특종 놀라운 세상’ 전국을 누비는 인생편 출연\r</p><p>- 2012.03. ‘좋은 생각’ 월간호 도전365인생\r</p><p>- 2011.12. SBS ‘생방송 투데이’ 미스터리 x파일 방송자키 출연\r</p><p>- 2011.11. EBS ‘신나는 인생 5678’ 시니어 방송자키 1, 2부 다큐 출연\r</p><p>- 2011.07. ‘머니투데이’ 뉴시니어 소개\r</p><p>- 2011.02. KTV ‘스마트코리아’ 스마트폰 방송 고수 출연\r</p><p>- 2009.10. SBS ‘아이디어 하우머치’ 1인 창조기업 출연 ‘제1호 움직이는 방송국’\r</p><p>- 2006.04. KBS ‘VJ 클럽’ 출연\r</p><p>- 2004.10. MBC 화제 집중 출연\r</p><p>- 2004.09. MBC 모닝와이드 출연\r</p><p>- 2004.09. MBC 사람 그림으로 쓰는 이야기 출연\r</p><p>- 2004.09. ITV 아이포유 5시 출연\r</p><p>- 2004.08. MBC 라디오 변창림 진행 코너 인터뷰\r</p><p>- 2003.10. YTN ‘과학과 미래’ 출연\r</p><p>- 2003.10. YTN 자동차 크릭\r</p><p>- 2003.09. KBS 2 ‘생방송 세상의 아침’ 방영\r</p><p>- 2003.08. MBC ‘뉴스 투데이’ 방송\r</p><p>- 2003.05. 목포MBC ‘아름다운 세상’ 보도\r</p><p>- 2003.05. KT사보 네스팟 홍보대사\r</p><p>- 2003.04. 코오롱 사보 ‘아름다운 세상’ 보도\r</p><p>- 2003.03. 한국JC 사보 보도\r</p><p>- 2003.01. 아리랑TV 케이블 방송\r</p><p>- 2002.11. MBC 강원 365 10분 방영\r</p><p>- 2002.11. KBS ‘피플 세상 속으로’ 15분 방영\r</p><p>- 2002.10. 시서저널 기사 출발 보도\r</p><p>- 2002.10. 경향신문 ‘도전365 현장 생방송’ 기사 보도</p>",
           "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
           "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
