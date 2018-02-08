@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -754,4 +755,5 @@ h6,
 }
 #extHeader12-2 H3 {
   font-size: 30px;
+  font-family: 'NanumBarunGothic';
 }
