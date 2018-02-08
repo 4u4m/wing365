@@ -1,9 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 @import url(../../../null);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
 
 
 
@@ -689,6 +690,7 @@ h6,
 }
 #menu-1 .navbar-caption {
   color: #ffffff;
+  font-family: 'NanumBarunGothic';
 }
 #menu-1 .navbar-toggler {
   color: #ffffff;
@@ -756,4 +758,8 @@ h6,
 #extHeader12-2 H3 {
   font-size: 30px;
   font-family: 'NanumBarunGothic';
+}
+#msg-box3-e .mbr-section-title,
+#msg-box3-e p {
+  color: #000;
 }

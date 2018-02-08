@@ -20,11 +20,13 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#f2f2f2"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.4",
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "4.6.4"
   },
   "pages": {
@@ -86,7 +88,7 @@
           ],
           "_name": "header6",
           "_anchor": "header6-0",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar\" data-rv-view=\"0\" style=\"background-image: url(&quot;../../app/themes/mobirise3/components/_images/gallery/room-laptop.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(0,0,0);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                     \n                            <div class=\"mbr-figure\">\n  <iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/live_stream?channel=UChP4PRxkREj5jvXTpPJ746Q&amp;autoplay=1&amp;nohtml5=1\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n</div>\n                            \n                        </div>\n                        <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n\n                           <p class=\"mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 22px;\" code-editable-id=\"233\">세상을 생중계하라</p>\n\n                            <div class=\"mbr-section-text\">\n                                <p class=\"mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 16px; text-align: left;\" code-editable-id=\"234\">\"도전하는 삶이 아름답다\"<br>우리의 내일을 함께 만들겠다는 꿈에 대한 열정으로 더 큰 내일을 만들어가는 일인 전문방송입니다.</p>\n                            </div>\n <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-warning mbr-editable-button\" href=\"https://mobirise.com\" style=\"font-family: NanumBarunGothic; font-size: 14px;\" code-editable-id=\"235\">지난 방송보기</a></div>\n                        </div>\n\n                        \n                        \n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#extheader12-2\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar\" data-rv-view=\"0\" style=\"background-image: url(&quot;../../app/themes/mobirise3/components/_images/gallery/room-laptop.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(0,0,0);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                     \n                            <div class=\"mbr-figure\">\n  <iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/live_stream?channel=UChP4PRxkREj5jvXTpPJ746Q&amp;autoplay=1&amp;nohtml5=1\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n</div>\n                            \n                        </div>\n                        <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n\n                           <p class=\"mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 22px;\" code-editable-id=\"273\">세상을 생중계하라</p>\n\n                            <div class=\"mbr-section-text\">\n                                <p class=\"mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 16px; text-align: left;\" code-editable-id=\"274\">\"도전하는 삶이 아름답다\"<br>우리의 내일을 함께 만들겠다는 꿈에 대한 열정으로 더 큰 내일을 만들어가는 일인 전문방송입니다.</p>\n                            </div>\n <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-warning mbr-editable-button\" href=\"https://mobirise.com\" style=\"font-family: NanumBarunGothic; font-size: 14px;\" code-editable-id=\"275\">지난 방송보기</a></div>\n                        </div>\n\n                        \n                        \n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#extheader12-2\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(null);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n@import url(undefined);\n.mbr-section-title {\n  color: #28262b;\n}\n.mbr-section-text {\n  color: #565656;\n}\n",
@@ -98,7 +100,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'NanumBarunGothic'",
+              "googleLink": "null"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -154,14 +158,15 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader12-2\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTabs1-c\">SOCIAL FEED</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-d\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extAccordion1-6\">PROFILE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UChP4PRxkREj5jvXTpPJ746Q\" target=\"_blank\">YOUTUBE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader12-2\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-e\">SOCIAL FEED</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-d\">CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extAccordion1-6\">PROFILE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.youtube.com/channel/UChP4PRxkREj5jvXTpPJ746Q\" target=\"_blank\">YOUTUBE</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "wing365.com",
+              "link": "http://wing365.com",
+              "title": "도전365"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -169,7 +174,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">도전365</a>",
           "_tags": [
             "Theme"
           ],
@@ -188,7 +193,7 @@
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f2f2f2",
             "bgText": "WING365.COM",
             "bgTextStyle": "Lato",
             "bgTextColor": "#efefef",
@@ -251,48 +256,39 @@
           }
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
           "_params": {
-            "showTitles": true,
-            "tabs": "1",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs1.jpg",
-            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.2
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title1": "BOOST YOUR RANKING",
-          "title2": "BOOTSTRAP BUILDER",
-          "title3": "TRENDY WEBSITE BLOCKS",
-          "title4": "Tab heading 4",
-          "title5": "Tab heading 5",
-          "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1\">Responsive</a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" data-toggle=\"tab\" href=\"#tab2\">Creative</a></li><li class=\"nav-item\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3\">Animated</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6\">Beautiful</a></li>",
-          "text1": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)!",
-          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
-          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "alias": "mobirise3-blocks/components",
+          "title": "SOCIAL FEED",
+          "text": "<p>현재 운영 중인 페이스북과 유튜브 채널입니다.</p>",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "extTabs1",
-          "_anchor": "extTabs1-c",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative extTabs1\" data-rv-view=\"63\" style=\"background-color: #efefef;\">\n    <div class=\"elements-content\" style=\"padding-top: 100px; padding-bottom: 100px;\">\n        \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-10 col-md-offset-1\">\n\n                    <div class=\"clearfix\"></div>\n                   \n\n                    <div class=\"tab-content noScroll\">\n                        <div id=\"tab1extTabs1-c\" class=\"tab-pane in active\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"260\">SOCIAL FEED</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"261\">현재 운영 중인 페이스북과 유튜브입니다.</p>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab2extTabs1-c\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"262\">BOOTSTRAP BUILDER</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"263\">Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.</p>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab3extTabs1-c\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"264\">TRENDY WEBSITE BLOCKS</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"265\">Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.</p>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab4extTabs1-c\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"266\">Tab heading 4</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"267\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab5extTabs1-c\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"268\">Tab heading 5</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"269\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab6extTabs1-c\" class=\"tab-pane\" role=\"tabpanel\">\n                            <h3 class=\"mbr-editable-content\" code-editable-id=\"270\">Tab heading 6</h3>\n                            <div class=\"row\">\n                                <div class=\"col-md-12\">\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"271\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "",
-          "_customTemplate": true
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-e"
         },
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
@@ -305,7 +301,7 @@
             "google": "",
             "youtube": "UChP4PRxkREj5jvXTpPJ746Q",
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "overlay": true,
@@ -354,7 +350,7 @@
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#e9e9e9",
+            "bgColor": "#f2f2f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -370,7 +366,7 @@
           "title2": "Visit our office",
           "subTitle1": "Ready for offers &amp; cooperation",
           "subTitle2": "Glad to meet new people",
-          "text1": "Phone: <a href=\"tel:01031818512\">010-8559-0817&nbsp;</a><br> Email: wingshim@nate.com",
+          "text1": "Phone:<a href=\"tel: 010-8559-0817 \"> 010-8559-0817&nbsp;</a><br> Email: wingshim@nate.com",
           "text2": "서울시 천호대로 368<br> 한국청년회의소 B101",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
           "media": {
