@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 
 
 
@@ -668,6 +670,10 @@ h6,
 }
 .theme-border {
   border: 1px solid #c0a375;
+}
+#header6-0 {
+  
+  
 }
 #header6-0 .mbr-section-title {
   color: #28262b;
