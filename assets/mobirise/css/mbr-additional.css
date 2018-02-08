@@ -871,6 +871,22 @@ body {
     width: 100% !important;
   }
 }
+.cid-qJ3SfEDvfq .videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 0;
+}
+.cid-qJ3SfEDvfq .videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.cid-qJ3SfEDvfq div {
+  align: center;
+}
 .cid-qJ3OJ06OGy .navbar {
   padding: .5rem 0;
   background: #ffffff;
