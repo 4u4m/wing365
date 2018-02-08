@@ -21,7 +21,8 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#f2f2f2"
+        "#f2f2f2",
+        "#d2dfe1"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -205,8 +206,8 @@
             "bgColor": "#f2f2f2",
             "bgText": "WING365.COM",
             "bgTextStyle": "Lato",
-            "bgTextColor": "#efefef",
-            "bgTextSize": 250,
+            "bgTextColor": "#d2dfe1",
+            "bgTextSize": "250",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
