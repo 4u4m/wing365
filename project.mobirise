@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "도전365-clone",
+    "name": "도전365",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -151,7 +151,7 @@
             }
           },
           "title": "심현용",
-          "text": "2000년 8월5일 1인방송자키로 첫방송을 시작하여 현재까지 현장방송을 전문으로 활동하고 있는 미래모험가 이며 얼리어답터, 스마트워커, 디지털유목민 , 캠핑전문가로도 활동하고 있습니다. 도전하는 삶이 아름답다를 슬로우건으로 도전365 채널을 운영하고 있습니다 .",
+          "text": "2000년 8월5일 1인방송자키로 첫방송을 시작하여 현재까지 현장방송을 전문으로 활동하고 있는 미래모험가이며 얼리어답터, 스마트워커, 디지털유목민 , 캠핑전문가로도 활동하고 있습니다. 도전하는 삶이 아름답다를 슬로우건으로 도전365 채널을 운영하고 있습니다 .",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/wing365/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">페이스북 바로가기</a>",
           "_tags": [
             "Theme"
@@ -215,7 +215,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#2969b0!important"
             }
           },
           "_params": {
