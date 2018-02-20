@@ -41,7 +41,7 @@
     "google-analytics": "",
     "sitemapSwitcher": "on",
     "versionFirst": "4.6.4",
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "4.6.4",
     "screenshot": "screenshot.png"
   },
@@ -57,17 +57,16 @@
       },
       "components": [
         {
-          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
             "inverse": true,
             "imageSize": "70",
-            "paddingTop": "6",
-            "paddingBottom": "6",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -76,39 +75,39 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/desert.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
-              "active": true,
               "src": "https://www.youtube.com/embed/live_stream?channel=UChP4PRxkREj5jvXTpPJ746Q&amp;autoplay=1&amp;nohtml5=1",
               "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": "on"
+              "autoplay": false,
+              "loop": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
               "link": "",
-              "size": 250
+              "size": 0
             }
           },
-          "title": "세상을 <br>생중계하라<br>",
-          "text": "\"도전하는 삶이 아름답다\"\n<br>우리의 내일을 함께 만들겠다는 꿈에 대한 열정으로 더 큰 내일을 만들어가는 일인 전문방송입니다.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
+          "title": "세상을 생중계하라",
+          "text": "\"도전하는 삶이 아름답다\"\n<br><br>내일을 함께 만들겠다는 꿈에 대한 열정으로 더 큰 내일을 만들어가는 1인 전문방송입니다.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box7",
-          "_anchor": "msg-box7-i",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" data-rv-view=\"37\" style=\"background-image: url(&quot;../../app/themes/mobirise3/components/_images/gallery/room-laptop.jpg&quot;);  padding-top: 140px; padding-bottom: 240px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(0, 0, 0);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 70%;\">\n                  <div class=\"mbr-figure\"><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/live_stream?channel=UChP4PRxkREj5jvXTpPJ746Q&amp;autoplay=1&amp;nohtml5=1\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"36\">세상을 생중계하라<br></h3>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"37\">\"도전하는 삶이 아름답다\"\n<br>내일을 함께 만들겠다는 꿈에 대한 열정으로 더 큰 내일을 만들어가는 1인 전문방송입니다.</p>\n\n                  </div>\n\n                  <div><a class=\"btn btn-warning mbr-editable-button\" href=\"https://www.youtube.com/channel/UChP4PRxkREj5jvXTpPJ746Q\" target=\"_blank\" code-editable-id=\"38\">지난 방송보기</a></div>\n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n<div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#msg-box5-n\"><i class=\"mbr-arrow-icon\"></i></a></div>      \n</section>",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-o",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background mbr-after-navbar\" data-rv-view=\"28\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg&quot;); padding-top: 120px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.6; background-color: rgb(0, 0, 0);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 70%;\">\n                  <div class=\"mbr-figure\"><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/live_stream?channel=UChP4PRxkREj5jvXTpPJ746Q&amp;autoplay=1&amp;nohtml5=1\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"43\">세상을 생중계하라</h3>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"44\">\"도전하는 삶이 아름답다\"\n<br><br>내일을 함께 만들겠다는 꿈에 대한 열정으로 더 큰 내일을 만들어가는 1인 전문방송입니다.</p>\n\n                  </div>\n\n                  <div><a class=\"btn btn-primary mbr-editable-button\" href=\"https://www.youtube.com/channel/UChP4PRxkREj5jvXTpPJ746Q\" target=\"_blank\" code-editable-id=\"45\">지난 방송보기</a></div>\n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(null);\n.mbr-section-title, .lead p {\n  color: #fff;\n}\nH3 {\n  font-family: 'NanumBarunGothic'; \n  font-size: 22px\n}\nP {\n  font-size: 15px;\n}\n",
+          "_customCSS": "H3 {\n  color: #ffffff;\n  font-size: 24px;\n}\nP {\n  color: #ffffff;\n  font-size: 15px;\n}\n",
           "_customTemplate": true
         },
         {
@@ -389,7 +388,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1,
             "iconsColor": "#333333",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning mbr-editable-button\">지난 방송보기</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary mbr-editable-button\">지난 방송보기</a>"
           },
           "title": "CONTACT US",
           "title1": "For your contacts",

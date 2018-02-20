@@ -8,11 +8,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'NanumBarunGothic';
+  font-family: undefined;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'NanumBarunGothic';
+  font-family: undefined;
 }
 .btn,
 .alert,
@@ -430,7 +430,7 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 .features6 .description {
-  font-family: 'NanumBarunGothic';
+  font-family: undefined;
 }
 .count,
 .counter-title {
@@ -512,7 +512,7 @@ h6,
   font-family: 'Lora', serif;
 }
 .extFeatures .feature-text {
-  font-family: 'NanumBarunGothic';
+  font-family: undefined;
 }
 .extFeatures2 h4 {
   font-family: 'Montserrat', sans-serif;
@@ -600,7 +600,7 @@ h6,
   color: #c0a375;
 }
 .extAccordion1 .panel-heading a {
-  font-family: 'NanumBarunGothic';
+  font-family: undefined;
 }
 .extAccordion1 .pseudoPlus,
 .extAccordion2 .pseudoPlus,
@@ -616,7 +616,7 @@ h6,
 .extAccordion2 .panel-heading a,
 .extAccordion3 .panel-heading a,
 .extToggle1 .panel-heading a {
-  font-family: 'NanumBarunGothic';
+  font-family: undefined;
 }
 .extProgressBar5 .progress-primary[value]::-webkit-progress-value {
   background-color: #c0a375;
@@ -669,15 +669,12 @@ h6,
 .theme-border {
   border: 1px solid #c0a375;
 }
-#msg-box7-i .mbr-section-title,
-#msg-box7-i .lead p {
-  color: #fff;
+#msg-box5-o H3 {
+  color: #ffffff;
+  font-size: 24px;
 }
-#msg-box7-i H3 {
-  font-family: 'NanumBarunGothic';
-  font-size: 22px;
-}
-#msg-box7-i P {
+#msg-box5-o P {
+  color: #ffffff;
   font-size: 15px;
 }
 #msg-box5-n P {
